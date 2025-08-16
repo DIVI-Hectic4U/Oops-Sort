@@ -10,7 +10,7 @@ Simple to play, tough to master.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/switch-sort.git
+   git clone https://github.com/DIVI-Hectic4U/switch-sort.git
    ```
 2. Open the project in **Unity (2021.3 LTS or later recommended)**.
 3. Press ▶️ Play in the Editor or build for your target platform.
